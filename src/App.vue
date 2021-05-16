@@ -51,7 +51,7 @@
             <div class="column right">
               <div class="text">I'm Jesus Diaz, a <span>Developer</span> </div>
               <p>Hello everybody,I’m gonna tell you a little about myself. I’m a mechanical engineering student of Universidad de Carabobo <br>
-              My history began when i was in 6th semester and i was getting Computacion para ingenieros (computation for engineers). In that course i started to learn Microsoft Visual Basic. At that moment my passion for programming began and i started to learn how to use HTML and CSS. 2 Years later i learned JavaScript, PHP and some frameworks(see <a href="#skills">skill</a>) i love challenges and solve problems trough programming</p>
+              My history began when i was in 6th semester and i was getting Computacion para ingenieros (computation for engineers). In that course i started to learn Microsoft Visual Basic. At that moment my passion for programming began and i started to learn how to use HTML and CSS. 2 Years later i learned JavaScript, PHP and some frameworks(see skill) i love challenges and solve problems trough programming</p>
 
               <a href="./assets/123456.pdf" download="curriculum.pdf">Download CV</a>
             </div>
@@ -91,7 +91,7 @@
             <div class="text"> My creative skills and experiences</div>
             <p>I was studied different languages in web pages in a self-taught way, and I learned each one of them.
               For example, HTML, CSS and javascript i was learned in FreecodeCamp.com. frameworks such as Laravel and Vuejs i was learned in EDteam.com.
-I don't have work experience but I could begin with you</p>
+            </p>
             <a href="https://www.linkedin.com/in/jes%C3%BAs-d%C3%ADaz-b3b155150/">read more</a>
           </div>
           <div class="column right">
@@ -180,13 +180,13 @@ I don't have work experience but I could begin with you</p>
                   <div class="sub-title">jebusdiaz8a@gmail.com</div>
                 </div>
               </div>
-              <a href="https://www.facebook.com/jesus.diaz.35977/"><i class="fab fa-facebook-square"></i></a>
-          <a href="https://www.linkedin.com/in/jes%C3%BAs-d%C3%ADaz-b3b155150/"><i class="fab fa-linkedin-in"></i></a>
-          <a href="https://www.instagram.com/id_jesusdiaz/"><i class="fab fa-instagram"></i></a>
+              <a class="ct" href="https://www.facebook.com/jesus.diaz.35977/"><i class="fab fa-facebook-square"></i></a>
+          <a class="ct" href="https://www.linkedin.com/in/jes%C3%BAs-d%C3%ADaz-b3b155150/"><i class="fab fa-linkedin-in"></i></a>
+          <a class="ct" href="https://www.instagram.com/id_jesusdiaz/"><i class="fab fa-instagram"></i></a>
             </div>
           </div>
           <div class="column right">
-           <GoogleMap :latitude= 13.7013266 :longitude= -89.226622 :title="'Titulo Marcador'" />
+           <GoogleMap :latitude= 10.251269 :longitude= -67.817665 :title="'Titulo Marcador'" />
             </div>
         </div>
       </div>
