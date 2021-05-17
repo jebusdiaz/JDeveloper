@@ -5,6 +5,7 @@
      <div class="scrollbtn" id="scrollbtn" @click="up">
        <i class="fas fa-angle-up"></i>
      </div>
+    
     <nav class="navbar" id="navbar" v-scroll="handleScroll">
       <div class="max-width">
         <div class="logo"><a href="#">JD<span>eveloper.</span></a></div>
